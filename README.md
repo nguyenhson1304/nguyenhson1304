@@ -86,7 +86,7 @@ I am a data enthusiast passionate about designing scalable ELT/ETL architectures
 </div>
 
 <div align="center">
-  <img src="./metrics.plugin.isocalendar.fullyear.svg" width="75%" alt="Isometric Commit Calendar" />
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" width="770px" alt="Isometric Commit Calendar" />
 </div>
 
 <br>
