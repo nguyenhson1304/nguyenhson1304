@@ -1,29 +1,28 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-<h1 align="center"><b>Hi , I'm Nguyen Hoang Son </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<h1 align="center"><b>Hi, I'm Nguyen Hoang Son </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Data+Engineering+student+at+HCMUTE..&hearts;++;Lifelong+Learning..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Engineering+Student..&hearts;++;Welcome+.+.+.+happy+you're+here!"></a>
 </p>
 
 <div align="center">
-  <a href="https://twitter.com/OSSInsight" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+  <a href="mailto:capta1nson1304@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
   <a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn" />
   </a>
-  <a href="mailto:ossinsight@pingcap.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  <a href="https://www.facebook.com/hoang.son.96860?locale=vi_VN" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge" alt="Facebook Badge">
   </a>
 </div>
 
-<br>
-
-
 
 	
-## 👨🏻‍💻 &nbsp;**About Me**
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**About me**
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -85,6 +84,8 @@ I am a data enthusiast passionate about designing scalable ELT/ETL architectures
 
 </a>
 </div>
+
+![Isometric Commit Calendar](./metrics.plugin.isocalendar.fullyear.svg)
 
 <br>
 <br>
