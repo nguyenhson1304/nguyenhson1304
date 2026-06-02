@@ -12,8 +12,11 @@
   <a href="mailto:capta1nson1304@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
-  <a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn" />
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" />
   </a>
   <a href="https://www.facebook.com/hoang.son.96860?locale=vi_VN" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge" alt="Facebook Badge">
@@ -95,8 +98,9 @@ I am a data enthusiast passionate about designing scalable ELT/ETL architectures
 
 -----
 
+❤️ Thank you for taking the time to read my github profile ❤️
 
-<br>
+<!-- <br> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
