@@ -18,7 +18,7 @@
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" />
   </a>
-  <a href="https://www.facebook.com/hoang.son.96860?locale=vi_VN" target="_blank">
+  <a href="https://www.facebook.com/nguyenhoangson130405?locale=vi_VN" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge" alt="Facebook Badge">
   </a>
 </div>
