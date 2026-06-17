@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <a href="mailto:capta1nson1304@gmail.com" target="_blank">
+  <a href="mailto:nguyenhoangson130405@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
   <a href="https://www.linkedin.com/in/sonnguyen130405/" target="_blank">
@@ -36,7 +36,7 @@ I am a data enthusiast passionate about designing scalable ELT/ETL architectures
 🚀 A passionate Data Engineer \
 📚 Enjoying reading books and listening to music \
 ✍️ Currently learning Data Analytics by Self \
-🌐 Personal website [link](https://www.0xabdulkhalid.ml) \
+🌐 Personal website [link](https://nghoangson-portfolio.vercel.app/) \
 💼 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br>
