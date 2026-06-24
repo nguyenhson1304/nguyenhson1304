@@ -35,9 +35,8 @@ I am a data enthusiast passionate about designing scalable ELT/ETL architectures
 
 🚀 A passionate Data Engineer \
 📚 Enjoying reading books and listening to music \
-✍️ Currently learning Data Analytics by Self \
-🌐 Personal website [link](https://nghoangson-portfolio.vercel.app/) \
-💼 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+✍️ Currently learning Data Analytics & Analytics Engineer by Self \
+💼 I’m currently open for an Intern or a new job opportunity ([My Resume](https://drive.google.com/file/d/1n-zEhz4oQzhW8psXQo4YOM1OOMQ3tFt0/view?usp=sharing))
 
 <br>
 
